@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeraphCloud
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning back-end developing with python
+- 🌱 I’m currently learning front-end developing with React
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: alexandre.victor2641@gmail.com
 - 😄 Pronouns: he/him
