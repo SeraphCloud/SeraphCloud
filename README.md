@@ -1,15 +1,17 @@
-- 👋 Hi, I’m @SeraphCloud
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning front-end developing with React
-<!--- - 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me: alexandre.victor2641@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+## 👋 Hi, I'm Victor
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seraphcloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seraphcloud&layout=compact&langs_count=7&theme=dracula&card_width=400"/>
+This GitHub profile is focused on **Front-end development**, where I build interfaces and consume APIs using modern web technologies.
 
-<!---
-SeraphCloud/SeraphCloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Main Stack
+- JavaScript / TypeScript
+- React
+- Next.js
+- HTML / CSS
+
+### 📌 Featured Projects
+- TMDB Movie App (React + API)
+- ePlay (Front-end project)
+
+### 🔗 Links
+- Portfolio: https://vs-portfolio-one.vercel.app
+- LinkedIn: https://linkedin.com/in/victor-alexandre-silva
